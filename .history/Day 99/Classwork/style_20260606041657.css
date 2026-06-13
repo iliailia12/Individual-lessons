@@ -1,0 +1,17 @@
+/* 1) შექმენი 1 div ბლოკი, შემდგომ 2 ღილაკი, ისე უნდა გააკეთო, რომ პირველ ღლაკზე დაჭირისას დივის background color - ი გახდეს წითელი, მეორე ღილაკზე დაჭერისას დაბრუნდეს მის საწყის ფერზე (დივს წინასწარ გაუწერე რაიმე სტილები)
+ */
+
+body{
+    margin: 0;
+    pa
+}
+.colorCangerDiv{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+1) კომენტარების სახით ახსენი რა არის DOM - ი, ჩამოწერე ყველა მეთოდი HTML - ის ელემენტზე წვდომის მოსაპოვებლად და განმარტე თითოეული მათგანი.
+
+DOM (Document Object Model)
+DOM არის HTML დოკუმენტის ობიექტური წარმოდგენა, რომლის საშუალებითაც
+JavaScript-ს შეუძლია ელემენტებზე წვდომა და მათი მართვა.
+
+getElementById() - ეძებს ელემენტს ID-ით.
+getElementsByClassName() - ეძებს ელემენტებს Class-ით.
+getElementsByTagName() - ეძებს ელემენტებს Tag-ის მიხედვით.
+
+getElementsByName() - ეძებს ელემენტებს Name ატრიბუტით.
+
+querySelector() - აბრუნებს პირველ ელემენტს CSS Selector-ის მიხედვით.
+
+querySelectorAll() - აბრუნებს ყველა ელემენტს CSS Selector-ის მიხედვით.
