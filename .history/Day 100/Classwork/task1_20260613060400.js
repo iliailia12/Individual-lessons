@@ -19,7 +19,7 @@ class User {
     get City(){
         return this._city
     }    
-    get Username(){
+    getUsername(){
         return this._username
     }
 }

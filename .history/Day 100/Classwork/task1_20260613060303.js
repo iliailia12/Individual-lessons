@@ -10,16 +10,10 @@ class User {
         this.username=username
     }
 
-    // getCity(){
-    //     return this._city
-    // }    
-    // getUsername(){
-    //     return this._username
-    // }
-    get City(){
+    get funtionCity(){
         return this._city
     }    
-    get Username(){
-        return this._username
+    getUsername(){
+        return this.username
     }
 }

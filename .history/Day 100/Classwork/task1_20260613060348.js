@@ -16,10 +16,4 @@ class User {
     // getUsername(){
     //     return this._username
     // }
-    get City(){
-        return this._city
-    }    
-    get Username(){
-        return this._username
-    }
 }
