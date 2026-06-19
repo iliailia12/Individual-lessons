@@ -20,4 +20,3 @@ function Product(name , price , color, condition , size){
     size:size
 }}
 const product1 = Product ('iphone17','5000$','silver','Second-hand','300129834j09msb0sh019','180x180')
-console.log(product)
