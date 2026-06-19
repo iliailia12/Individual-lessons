@@ -13,6 +13,8 @@ class person {
 }
 
 const person1 = new Person("Nika", 20, "Georgia", "Blue")
+
 console.log(person1.age)
+
 person1.incrementAge()
 console.log(person1.age)
