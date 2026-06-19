@@ -4,13 +4,14 @@ const caunt = document.getElementById('caunt')
 const increase = document.getElementById('increase')
 const reset = document.getElementById('reset')
 let sum = 0
-
 increaseButton.addEventListener("click", () => {
-    sum++
-    count.textContent = `Count: ${sum}`
-})
+    sum++;
+
+    count.textContent = `Count: ${sum}`;
+});
 
 resetButton.addEventListener("click", () => {
-    sum = 0
-    count.textContent = "Count: 0"
+    sum = 0;
+
+    count.textContent = "Count: 0";
 })
