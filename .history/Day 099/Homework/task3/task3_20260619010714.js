@@ -8,5 +8,5 @@ const red = document.getElementById('red')
 randomColors.addEventListener('click',()=>{
                    // 0     1     2      3       4
     const colors = ['red','blue','grey','black','purple']
-        
+    
 })

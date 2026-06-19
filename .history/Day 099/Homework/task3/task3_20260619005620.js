@@ -1,12 +1,9 @@
 // 3) შექმენი ვებ გვერდი სადაც გექნება 1 დივ ბლოკი და 2 ღილაკი, პირველ ღილაკზე დაკლიკების შემდეგ დივ ბლოკის background color - ი უნდა შეიცვალოს random ფერზე (შექმენი მასივი 5 ფერით და ყოველ ჯერზე სხვადასხვა ფერის უნდა იყოს დივის background color - ი), მეორე ღილაკზე დაკლიკებისას div - ის background color - ი უნდა გახდეს წითელი. (აუცილებლად უნდა იყოს გამოყენებული addEventListener - ი)
 
 
-const div = document.getElementsByTagName('div')
-const randomColors = document.getElementById('randomColors')
-const red = document.getElementById('red')
+const div = document.getElementById('click',()git add .
+git commit -m "second commit"
+git push
+{
 
-randomColors.addEventListener('click',()=>{
-                   // 0     1     2      3       4
-    const colors = ['red','blue','grey','black','purple']
-        
 })
