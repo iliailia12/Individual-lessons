@@ -2,7 +2,7 @@
 
 class Animal{
     class Dog {
-        constructor( ) {
+        constructor(parameters) {
             
         }
     }
